@@ -1,9 +1,6 @@
 package org.vkedco.mobappdev.ar.rajawalitexturedsphere;
 
 import javax.microedition.khronos.opengles.GL10;
-
-import org.vkedco.mobappdev.ar.rajawalitutorial_01.R;
-
 import rajawali.Object3D;
 import rajawali.lights.DirectionalLight;
 import rajawali.materials.Material;
